@@ -8,7 +8,7 @@
 
 
 
-----
+-----
 <!-- About me -->
 <p>
 Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 passionate about coding and engineering, with experience in control rooms operation of power generation and transmission companies :bulb::electric_plug::battery:, supervising the operation and control of electrical power systems. ✨Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React 🤓.
