@@ -72,7 +72,8 @@ Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 passionate about coding and we
 <img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 
+<ul align="rigth">
 ![Banner](https://github.com/glouigi/glouigi/blob/main/src/Skills_Animation_White.gif)
+</ul>
 </div>
-
 ---- 
