@@ -13,11 +13,10 @@
 ----
 <!-- About me -->
 <p>
-Hi, I'm Giorgio, an Electrical Enginner passionate about coding and web development, with experience in control rooms operation of power generation and transmission companies, supervising the operation and control of electrical power systems. Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React.
+Hi, I'm Giorgio, an Electrical Enginner 🎓 passionate about coding and web development, with experience in control rooms operation of power generation and transmission companies :bulb::electric_plug::battery:, supervising the operation and control of electrical power systems. ✨Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React 🤓.
 
 - :pushpin: Interests: Data Science, Spot Markets, Machine Learning, Renewable Energy,  Mathematical Optimization and Power Systemns.
 
-I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Science 🎓 from North South University 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full stack Development 🕸️ and working on Machine Learning 🤓.
 </p>
 
 ----
