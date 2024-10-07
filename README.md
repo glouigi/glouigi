@@ -1,6 +1,6 @@
 ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
 
-## GIORGIO LOUIGI RAMIREZ QUIROZ
+# GIORGIO LOUIGI RAMIREZ QUIROZ
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/giorgio-louigi-ramirez-quiroz-924a2872)](https://www.linkedin.com/in/giorgio-louigi-ramirez-quiroz-924a2872/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:g.ramirezqui@gmail.com)
@@ -12,9 +12,8 @@
 
 
 
-Hi, I'm Welton, a Electronics student passionate about development and entrepreneurship.
-
-- :books: I’m currently learning C, Typescript, Node.js, React and React Native.
+Hi, I'm Giorgio, an Electrical Enginner passionate about coding and development.
+:books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
 
