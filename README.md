@@ -13,7 +13,7 @@
 ----
 <!-- About me -->
 <p>
-Hi, I'm Giorgio, an Electrical Enginner 🎓 passionate about coding and web development, with experience in control rooms operation of power generation and transmission companies :bulb::electric_plug::battery:, supervising the operation and control of electrical power systems. ✨Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React 🤓.
+Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 passionate about coding and web development, with experience in control rooms operation of power generation and transmission companies :bulb::electric_plug::battery:, supervising the operation and control of electrical power systems. ✨Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React 🤓.
 
 - :pushpin: Interests: Data Science, Spot Markets, Machine Learning, Renewable Energy,  Mathematical Optimization and Power Systemns.
 
@@ -71,6 +71,8 @@ Hi, I'm Giorgio, an Electrical Enginner 🎓 passionate about coding and web dev
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 <img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+
+![Banner](https://github.com/glouigi/glouigi/blob/main/src/Skills_Animation_White.gif)
 </div>
 
 ---- 
