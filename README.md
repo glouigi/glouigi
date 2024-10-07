@@ -24,7 +24,7 @@ I'm K M H Mubin. I'm a final year student pursuing Bachelors's in Computer Scien
 </p>
 
 <!-- Personal Stuffs -->
-## :light: About Me:
+## :zap: About Me:
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
