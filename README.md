@@ -28,7 +28,7 @@ Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 passionate about coding and en
 
 - 📚 Interested in Coding, Power system optimization and Working out.
 
-- 📝 My resume **[Giorgio Ramirez](https://drive.google.com/drive/folders/1x4_3-tDkDxlyv1X26UDQ5Ig3P6Zm8Veb)**
+- 📝 My resume **[Giorgio Ramirez](https://drive.google.com/file/d/1J1Luumng6qE3ATClJsbX8joIC-c9y9hk/view?usp=sharing)**
 
 - 💪🏼 Fav Quote: "Never stop learning"
 
