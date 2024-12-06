@@ -11,9 +11,9 @@
 -----
 <!-- About me -->
 <p>
-Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 passionate about coding and engineering, with experience in control rooms operation of power generation and transmission companies :bulb::electric_plug::battery:, supervising the operation and control of electrical power systems. ✨Demonstrated expertise in monitoring and optimizing electrical systems to ensure safe, reliable, and efficient operations :books: I’m currently learning Python, SQL, Machine Learning, HTML5, Node.js and React 🤓.
+Hi, I'm Giorgio, an Electrical Enginner :zap:🎓 I enjoy researching and analyzing information about energy markets and their design. On the other hand, I am passionate about optimization algorithms and machine learning methods and how they are applied within power system modeling to find the best conditions to reduce costs, increase efficiency or improve reliability of the power system. In my years of experience, I developed programming projects in Python and VBA to improve data acquisition and processing processes, as well as problem solving through data visualization and machine learning.
 
-- :pushpin: Interests: Data Science, Spot Markets, Machine Learning, Renewable Energy,  Mathematical Optimization and Power Systemns.
+- :pushpin: Interests: Energy wholesale markets, spot prices, control room operations, power generation, renewable energy, power system protection, HV switching maneuvers, optimization, data science, SQL, and Machine Learning.
 
 </p>
 
