@@ -23,7 +23,7 @@ With extensive experience in international grid operations, I build tools in Pyt
 - 📍 **Based in:** Melbourne, Australia
 - 🔭 **Focus:** Power system optimization & Energy market dispatch engines.
 - 🌱 **Learning:** Advanced Deep Learning for time-series forecasting.
-- 📝 **Resume:** [View My Portfolio/CV](https://drive.google.com/file/d/1J1Luumng6qE3ATClJsbX8joIC-c9y9hk/view?usp=sharing)
+- 📝 **Resume:** [View My Portfolio/CV](https://drive.google.com/file/d/19nSCrWappHHJRH4R1YXmYs1ipt5n-HOF/view?usp=sharing)
 
 ---
 
